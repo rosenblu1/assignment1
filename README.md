@@ -1,5 +1,6 @@
 # assignment1
 Authors: Eddie Rosenblum, Chris Won
+
 This repository contains two java classes on classical encryption, Caesar and Vigniere ciphers.
 
 CSC207.01 Assignment 1
